@@ -41,7 +41,7 @@ Mulai
 Selesai
 ![Flowchart 1](https://github.com/Dapa-yap/Daspro/blob/main/Tugas_Daspro/img/FlowChart1.png?raw=true)
 
-![Flowchart 2](https://github.com/Dapa-yap/Daspro/blob/main/Tugas_Daspro/img/Flowchart2.png?raw=true)
+![Flowchart 2](https://github.com/Dapa-yap/Daspro/blob/main/Tugas_Daspro/img/FLowchart2.png?raw=true)
 
 
 
