@@ -3,6 +3,7 @@
 ### TI 1C/10
 
 **####Pseudocode soal 1**
+
 Mulai
     Tampilkan "Apakah membawa kartu mahasiswa? (ya/tidak)"
     Input kartu
@@ -17,6 +18,7 @@ Mulai
     Akhir Jika
 Selesai
 **####Pseudocode soal 2**
+
 Mulai
     Tampilkan "Masukkan jenis pengguna (dosen/mahasiswa/lainnya): "
     Input jenis_pengguna
@@ -38,8 +40,8 @@ Mulai
     Akhir Jika
 Selesai
 **####FlowCHart 1**
-![Flowchart 1](flowchart1.png)
+![Flowchart 1](FlowChart1.png)
 **####FlowCHart 2**
-![Flowchart 2](flowchart2.png)
+![Flowchart 2](FLowchart2.drawio.png)
 
 
