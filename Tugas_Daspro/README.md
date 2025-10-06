@@ -1,8 +1,8 @@
-**#Dasar Pemograman**
+#Dasar Pemograman
 ### Daffa Dwi Nugroho
 ### TI 1C/10
 
-**####Pseudocode soal 1**
+**Pseudocode soal 1**
 
     Mulai
     Tampilkan_"Apakah membawa kartu mahasiswa?_(ya/tidak)_"
@@ -17,7 +17,7 @@
         Tampilkan "Ditolak masuk"
     Akhir Jika
     Selesai
-**####Pseudocode soal 2**
+**Pseudocode soal 2**
 
     Mulai
     Tampilkan_"Masukkan jenis pengguna_(dosen/mahasiswa/lainnya): "
@@ -40,11 +40,11 @@
     Akhir Jika
     Selesai
 
-**####Flowchart soal 1**
+**Flowchart soal 1**
 
 ![Flowchart 1](https://github.com/Dapa-yap/Daspro/blob/main/Tugas_Daspro/img/FlowChart1.png?raw=true)
 
-**####Flowchart soal 2**
+**Flowchart soal 2**
 
 ![Flowchart 2](https://github.com/Dapa-yap/Daspro/blob/main/Tugas_Daspro/img/FLowchart2.png?raw=true)
 
