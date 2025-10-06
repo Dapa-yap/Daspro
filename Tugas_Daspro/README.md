@@ -16,7 +16,7 @@
     Jika tidak
         Tampilkan "Ditolak masuk"
     Akhir Jika
-Selesai
+    Selesai
 **####Pseudocode soal 2**
 
     Mulai
@@ -38,11 +38,12 @@ Selesai
             Tampilkan "Akses ditolak"
         Akhir Jika
     Akhir Jika
-Selesai
+    Selesai
 
-
+**####Flowchart soal 1**
 ![Flowchart 1](https://github.com/Dapa-yap/Daspro/blob/main/Tugas_Daspro/img/FlowChart1.png?raw=true)
 
+**####Flowchart soal 2**
 ![Flowchart 2](https://github.com/Dapa-yap/Daspro/blob/main/Tugas_Daspro/img/FLowchart2.png?raw=true)
 
 
