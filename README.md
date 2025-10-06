@@ -40,8 +40,8 @@ Mulai
     Akhir Jika
 Selesai
 **####FlowCHart 1**
-![Flowchart 1](FlowChart1.png)
+![Flowchart 1](\Users\Daffa Dwi\Documents\Daspro\Daspro\Tugas Daspro\img\FlowChart1.png)
 **####FlowCHart 2**
-![Flowchart 2](FLowchart2.drawio.png)
+![Flowchart 2](\Users\Daffa Dwi\Documents\Daspro\Daspro\Tugas Daspro\img\FLowchart2.drawio.png)
 
 
