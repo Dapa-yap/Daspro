@@ -39,9 +39,9 @@ Mulai
         Akhir Jika
     Akhir Jika
 Selesai
-**####FlowCHart 1**
-![Flowchart 1](https://github.com/Dapa-yap/Daspro/blob/main/Documents/Daspro/Tugas_Daspro/img/FlowChart1.png?raw=true)
-**####FlowCHart 2**
-![Flowchart 2](https://github.com/Dapa-yap/Daspro/blob/main/Documents/Daspro/Tugas_Daspro/img/FLowchart2.drawio.png?raw=true)
+![Flowchart 1](https://github.com/Dapa-yap/Daspro/blob/main/Tugas_Daspro/img/FlowChart1.png?raw=true)
+
+![Flowchart 2](https://github.com/Dapa-yap/Daspro/blob/main/Tugas_Daspro/img/Flowchart2.drawio.png?raw=true)
+
 
 
