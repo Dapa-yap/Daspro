@@ -1,8 +1,8 @@
-#Dasar Pemograman
+# Dasar Pemograman
 ### Daffa Dwi Nugroho
 ### TI 1C/10
 
-**Pseudocode soal 1**
+**#### Pseudocode soal 1**
 
     Mulai
     Tampilkan_"Apakah membawa kartu mahasiswa?_(ya/tidak)_"
