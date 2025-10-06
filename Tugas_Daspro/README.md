@@ -40,8 +40,8 @@ Mulai
     Akhir Jika
 Selesai
 **####FlowCHart 1**
-![Flowchart 1](https://github.com/Dapa-yap/Daspro/blob/main/Documents/Daspro/Tugas_Daspro/img/FlowChart1.png)
+![Flowchart 1](https://github.com/Dapa-yap/Daspro/blob/main/Documents/Daspro/Tugas_Daspro/img/FlowChart1.png?raw=true)
 **####FlowCHart 2**
-![Flowchart 2](https://github.com/Dapa-yap/Daspro/blob/main/Documents/Daspro/Tugas_Daspro/img/FLowchart2.drawio.png)
+![Flowchart 2](https://github.com/Dapa-yap/Daspro/blob/main/Documents/Daspro/Tugas_Daspro/img/FLowchart2.drawio.png?raw=true)
 
 
