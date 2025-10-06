@@ -4,11 +4,11 @@
 
 **####Pseudocode soal 1**
 
-Mulai
-    Tampilkan "Apakah membawa kartu mahasiswa? (ya/tidak)"
+    Mulai
+    Tampilkan_"Apakah membawa kartu mahasiswa?_(ya/tidak)_"
     Input kartu
 
-    Tampilkan "Apakah sudah registrasi online? (ya/tidak)"
+    Tampilkan_"Apakah sudah registrasi online?_(ya/tidak)_"
     Input registrasi
 
     Jika (kartu == "ya") ATAU (registrasi == "ya") maka
@@ -19,8 +19,8 @@ Mulai
 Selesai
 **####Pseudocode soal 2**
 
-Mulai
-    Tampilkan "Masukkan jenis pengguna (dosen/mahasiswa/lainnya): "
+    Mulai
+    Tampilkan_"Masukkan jenis pengguna_(dosen/mahasiswa/lainnya): "
     Input jenis_pengguna
 
     Jika jenis_pengguna == "dosen" maka
@@ -39,6 +39,8 @@ Mulai
         Akhir Jika
     Akhir Jika
 Selesai
+
+
 ![Flowchart 1](https://github.com/Dapa-yap/Daspro/blob/main/Tugas_Daspro/img/FlowChart1.png?raw=true)
 
 ![Flowchart 2](https://github.com/Dapa-yap/Daspro/blob/main/Tugas_Daspro/img/FLowchart2.png?raw=true)
